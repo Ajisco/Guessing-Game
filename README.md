@@ -1,2 +1,3 @@
-# Guessing-Game
-A Guessing Game Built With Python on Jupyter Notebook
+# aajiba-DWPP.1
+
+I am building this project to create a  guessing game.
